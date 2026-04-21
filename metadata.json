@@ -1,0 +1,5 @@
+{
+  "name": "MaaS Dashboard Prototype",
+  "description": "High-fidelity static web dashboard for Monitoring as a Service (MaaS) platform visualizing metrics, KPIs, operations, and value scorecards.",
+  "requestFramePermissions": []
+}
